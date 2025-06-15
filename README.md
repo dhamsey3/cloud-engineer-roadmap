@@ -3,7 +3,8 @@
 ## 1️⃣ Start with the Basics
 - Learn **Linux**:
 - [Linux Journey](https://linuxjourney.com/) (free interactive learning)
-- [Introduction to Linux (edX)](https://learning.lpi.org/en/learning-materials/)
+- [Introduction to Linux (edX)]([https://learning.lpi.org/en/learning-materials/](https://www.youtube.com/watch?v=sWbUDq4S6Y8&ab_channel=freeCodeCamp.org)
+- 
 - Understand **networking fundamentals**:
 - [Cisco Networking Basics (Coursera - free audit)](https://www.coursera.org/learn/basic-networking)
 - [Practical Networking](https://www.practicalnetworking.net/)
