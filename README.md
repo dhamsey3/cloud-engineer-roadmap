@@ -14,7 +14,7 @@
 
 - Learn **Linux**:
   - 🌱 [Linux Journey](https://linuxjourney.com/) — Free interactive learning  
-  - 📺 [Introduction to Linux — Full Course for Beginners (YouTube)](https://www.youtube.com/watch?v=sWbUDq4S6Y8&ab_channel=freeCodeCamp.org)
+  - 📺 [Introduction to Linux — Full Course for Beginners (YouTube)](https://www.youtube.com/watch?v=ivquJh3DXUA) — *freeCodeCamp*
 
 - Understand **networking fundamentals**:
   - 🌐 [Cisco Networking Basics (Coursera — free audit)](https://www.coursera.org/learn/basic-networking)  
@@ -23,13 +23,13 @@
   - 🌐 [What happens when you type a URL?](https://github.com/alex/what-happens-when)
 
 - Learn **Git**:
-  - 📺 [Git and GitHub for Beginners (YouTube — freeCodeCamp)](https://www.youtube.com/watch?v=RGOj5yH7evk&ab_channel=freeCodeCamp.org)
+  - 📺 [Git and GitHub for Beginners — Crash Course (YouTube)](https://www.youtube.com/watch?v=RGOj5yH7evk) — *freeCodeCamp*
 
 ---
 
 ## 2️⃣ Choose Your Cloud Platform
 
-Decide whether to focus on **AWS** or **Azure**. Both are highly employable. This guide provides parallel resources for each.
+Decide whether to focus on **AWS** or **Azure**. Both have high demand.
 
 ---
 
@@ -39,15 +39,14 @@ Decide whether to focus on **AWS** or **Azure**. Both are highly employable. Thi
   - 🚀 [AWS Free Tier](https://aws.amazon.com/free/)
 
 - Study material:
-  - ☁️ [AWS Certified Cloud Practitioner (Free training from AWS)](https://explore.skillbuilder.aws/learn/course/13460/aws-cloud-practitioner-essentials)
+  - ☁️ [AWS Cloud Practitioner Essentials (Free from AWS)](https://explore.skillbuilder.aws/learn/course/13460/aws-cloud-practitioner-essentials)
   - 🏅 [AWS Solutions Architect Associate (Exam Guide)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
-  - 📺 [AWS for Beginners - Full Course (YouTube — freeCodeCamp)](https://www.youtube.com/watch?v=ulprqHHWlng&ab_channel=freeCodeCamp.org)
+  - 📺 [AWS for Beginners — Full Course (YouTube)](https://www.youtube.com/watch?v=ulprqHHWlng) — *freeCodeCamp*
 
 - Hands-on:
   - 🛠️ [AWS Workshops](https://workshops.aws/)
-  - 🏗️ [Learn Terraform (HashiCorp Learn)](https://developer.hashicorp.com/terraform/learn)
-  - 📺 [Terraform Full Course (YouTube — freeCodeCamp)](https://www.youtube.com/watch?v=SLB_c_ayRMo&ab_channel=freeCodeCamp.org)
-  - 📺 [Ansible Full Course (YouTube — freeCodeCamp)](https://www.youtube.com/watch?v=wgQ3rH3XJ8k&ab_channel=freeCodeCamp.org)
+  - 🏗️ [Terraform Beginner Tutorial (YouTube)](https://www.youtube.com/watch?v=7xngnjfIlK4) — *TechWorld with Nana*
+  - 📺 [Ansible Full Course (YouTube)](https://www.youtube.com/watch?v=wgQ3rH3XJ8k) — *freeCodeCamp*
 
 ---
 
@@ -59,25 +58,24 @@ Decide whether to focus on **AWS** or **Azure**. Both are highly employable. Thi
 - Study material:
   - ☁️ [Microsoft Azure Fundamentals (Free self-paced)](https://learn.microsoft.com/en-us/training/paths/azure-fundamentals/)
   - 🏅 [Azure Administrator Associate (AZ-104)](https://learn.microsoft.com/en-us/certifications/azure-administrator/)
-  - 📺 [Azure Full Course - Learn Microsoft Azure (YouTube — freeCodeCamp)](https://www.youtube.com/watch?v=BegY2t2tmiY&ab_channel=freeCodeCamp.org)
+  - 📺 [Azure for Beginners — Full Course (YouTube)](https://www.youtube.com/watch?v=BegY2t2tmiY) — *freeCodeCamp*
 
 - Hands-on:
   - 🛠️ [Azure Labs](https://microsoft.github.io/AzureTipsAndTricks/blog/tips/azure-sandbox/)
-  - 🏗️ [Learn Terraform (HashiCorp Learn)](https://developer.hashicorp.com/terraform/learn)
-  - 📺 [Terraform Full Course (YouTube — freeCodeCamp)](https://www.youtube.com/watch?v=SLB_c_ayRMo&ab_channel=freeCodeCamp.org)
-  - 📺 [Ansible Full Course (YouTube — freeCodeCamp)](https://www.youtube.com/watch?v=wgQ3rH3XJ8k&ab_channel=freeCodeCamp.org)
+  - 🏗️ [Terraform Beginner Tutorial (YouTube)](https://www.youtube.com/watch?v=7xngnjfIlK4) — *TechWorld with Nana*
+  - 📺 [Ansible Full Course (YouTube)](https://www.youtube.com/watch?v=wgQ3rH3XJ8k) — *freeCodeCamp*
 
 ---
 
 ## 5️⃣ Build & Share Projects
 
-✅ **2 beginner-friendly projects to strengthen your portfolio**:
 - 🖥️ **Static website hosting**
-  - AWS: S3 static site with HTTPS + Terraform + GitHub Actions
-  - Azure: Blob Storage static site + Azure DevOps or GitHub Actions
+  - AWS: S3 static site + HTTPS + Terraform + GitHub Actions  
+  - Azure: Blob storage static site + custom domain + GitHub Actions  
+
 - 🔔 **Monitoring & alerting system**
-  - AWS: CloudWatch alarms → email / Slack
-  - Azure: Azure Monitor alerts → email / Teams
+  - AWS: CloudWatch alarms to email/Slack  
+  - Azure: Azure Monitor alerts  
 
 Document your work:
 - 📓 [GitHub Guides](https://guides.github.com/activities/hello-world/)
